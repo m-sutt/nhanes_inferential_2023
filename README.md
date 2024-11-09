@@ -4,7 +4,7 @@ NHANES 2021-2023 Inferential Analytics
 
 ## Objective
 
-- Use NHANES data to perform basic inferential statistics using Python in Google Colab.
+- Use NHANES 2021-2023 data to perform basic inferential statistics using Python in Google Colab.
 - Explore relationships and differences in health metrics and demographic variables, utilizing the skills learned in class to answer key questions about the dataset.
 
 ## Process
@@ -36,7 +36,7 @@ NHANES 2021-2023 Inferential Analytics
   - Test Used: Pearson correlation.
   - Findings: There was no significant correlation between age and sedentary behavior time. This suggests that age does not have a direct relationship with how much time individuals spend in sedentary behavior, at least based on the data from this dataset.
 
-- Errors encountered:
+- **Errors encountered**:
     - While cleaning data and merging them, I forgot I did it to one dataframe and then when I went to go and try to extract a different set of data I found that I couldn't
     - Also when I stop and came back to this assignment I would forget to load some data or sometimes purposefully didn't load it so I can clean up again because it seemed easier to just start from scratched.
     - For the regression question I wanted to have a way for my code to automatically extract the interpretation but ran into multiple errors while in the process and I know where my errors are but haven't really found a solution to it.
