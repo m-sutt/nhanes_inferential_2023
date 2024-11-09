@@ -7,6 +7,13 @@ NHANES 2021-2023 Inferential Analytics
 - Use NHANES data to perform basic inferential statistics using Python in Google Colab.
 - Explore relationships and differences in health metrics and demographic variables, utilizing the skills learned in class to answer key questions about the dataset.
 
+## Process
+1. Load relevant data
+2. Clean (drop missing value)
+3. Merge
+4. Perform relevant statistic test
+5. Interpretation
+
 ## Results and Interpretation
 
 - **Question 1** : "Is there an association between marital status (married or not married) and education level (bachelor’s degree or higher vs. less than a bachelor’s degree)?"
